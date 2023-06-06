@@ -1,0 +1,30 @@
+what is Buddhism	@<THING> is @<Q748>	religion founded by the Buddha
+who is gautama buddha	@<PERSON> is @<Q9441>	Indian philosopher, reformer and founder of Buddhism
+What are stupas?	@<THING> are @<Q180987>?	mound-like structure containing Buddhist relics, typically the ashes of Buddhist monks, used by Buddhists as a place of meditation
+What is Nirvana?	@<THING> is @<Q11649>?	American rock band
+What is Karma?	@<THING> is @<Q2890963>?	card game
+What is Samsara?	@<THING> is @<Q3150366>?	2011 Ron Fricke documentary film
+Who is a Boddhisattava?	@<PERSON> is a boddhisattava?
+What are the Four noble truths?	@<THING> are the four noble @<Q7949>?
+who built dharmachakra stupa	@<PERSON> built dharmachakra stupa
+when did buddha visit sarnath	@<DATETIME> did buddha @<Q17126187> @<Q324394>
+which stupas are there in sarnath	@<THING> @<Q180987> are there in @<Q324394>
+what is special about sarnath	@<THING> is special about @<Q324394>
+Where was Buddha born? 	@<LOC> was @<Q9441> born?	LOC 	Q9441 	 was  born?
+Where did Buddha die? 	@<LOC> did @<Q9441> die?	LOC 	Q9441 	 did  die?
+where did buddha give his first sermon	@<LOC> did @<Q9441> give his first @<Q60797>
+What was Buddha’s real name?	@<THING> was @<Q9441>’s real @<Q1071027>?
+What was Buddha’s wife's name?	@<THING> was @<Q9441>’s @<Q188830>'s @<Q1071027>?
+What were Buddha’s key preachings?	@<THING> were @<Q9441>’s key preachings?
+What is the difference between Hinayana and Mahayana Buddhism?	@<THING> is the @<Q4658963> between @<Q193814> and mahayana @<Q748>?
+When did Buddhism originate? 	@<DATETIME> did @<Q748> originate?	DATETIME 	Q748 	 did  originate?
+Where did Buddha achieve enlightenment?	@<LOC> did @<Q9441> achieve @<Q592592>?
+Which countries is Buddhism commonly followed in?	@<THING> @<Q6256> is @<Q748> commonly followed in?
+What is the meaning of the word Buddha in Sanskrit?	@<THING> is the @<Q101072> of the @<Q625642> @<Q9441> in @<Q11059>?
+What languages are Ancient Buddhist scriptures mostly found in?	@<THING> @<Q315> are ancient buddhist @<Q179461> mostly found in?
+Where did Buddha deliver his first sermon?	@<LOC> did @<Q9441> deliver his first @<Q60797>?
+Which clan was Buddha born into?	@<THING> @<Q133311> was @<Q9441> born into?
+What was Buddha’s mothers name?	@<THING> was @<Q9441>’s @<Q7560> name?
+At what age did Buddha get married?	at @<THING> @<Q779974> did @<Q9441> get married?
+At what age did Buddha die?	at @<THING> @<Q779974> did @<Q9441> die?
+Which Mauryan emperor played an important role in spreading Buddhism?	@<THING> mauryan @<Q39018> played an important @<Q214339> in spreading @<Q748>?
